@@ -15,11 +15,11 @@ name="Josh Altman"
 
 
 [[CURRENCIES]]
-code="WhipPrimeNest"
+code="WhipNest"
 status="live"
 display_decimals=2
 issuer="GAIQOAGAX2FUSHS7DGGUXPZ5FMKUWHF67YJHTK2S2XLE7WZJJFZATEVO"
-anchor_asset_type="estate"
+anchor_asset_type="realestate"
 name="Whip-Prime-Nest Estates"
 desc="WhiprimeNest Estate is a real estate investment company on the Stellar network, offering affordable, high-quality property investments powered by blockchain technology for secure, transparent, and low-cost transactions."
 image="https://i.ibb.co/L0VKBNQ/logo.png"
